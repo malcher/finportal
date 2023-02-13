@@ -1,0 +1,1 @@
+document.write(""),document.write('<form><button name="subject" type="submit" value="Resumo Semanal" class="button" title="Resumo Semanal" onClick="window.open(&#39;https://www.portaldefinancas.com/semana/sinopsemana.htm&#39;,&#39;resumo&#39;,&#39;width=650,height=730,TitleBar=no,scrollbars=yes&#39;)">Resumo Semanal</button></form>');

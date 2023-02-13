@@ -1,0 +1,1 @@
+document.write(""),document.write('<p align="center" style="margin-top:0px"><a href="https://www.portaldefinancas.com/pfenglish/index.html" target="_blank" class="a01" style="color:#009"><img src="https://www.portaldefinancas.com/ssl/image/ukflag.jpg" class="imgnd"/><img src="https://www.portaldefinancas.com/ssl/image/usflag.jpg" class="imgne"/><br>English version</a></p>');

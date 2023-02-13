@@ -1,0 +1,1 @@
+document.write(""),document.write('<script async src="https://cse.google.com/cse.js?cx=partner-pub-6823445101858212:kkgugu-f6r0"></script><div class="gcse-searchbox-only" style="width:50%"></div>');
